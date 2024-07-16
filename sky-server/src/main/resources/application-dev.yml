@@ -7,3 +7,8 @@ sky:
     username: root
     password: galgamesaya
 
+#  alioss:
+#    endpoint: oss-cn-shenzhen.aliyuncs.com
+#    access-key-id: LTAI5t6aToFz3aRiWKLEBhYg
+#    access-key-secret: Dzk0bAZeiGkTkgUcyaXmFEpHrIkJAL
+#    bucket-name: tlias-learn-2
